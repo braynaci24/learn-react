@@ -1,3 +1,15 @@
 .App {
     background-color: red;
 }
+
+.bg-gray-100 {
+    background-color: gray;
+}
+
+.bg-danger-100 {
+    background-color: red;
+}
+
+.bg-success-100 {
+    background-color: green;
+}
