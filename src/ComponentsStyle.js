@@ -9,5 +9,8 @@ export const Title = styled.h1`
     color: #fff;
   `}
 `;
-
+export const Input = styled.input`
+  border: 1px solid red;
+  margin: 30px;
+`
 
